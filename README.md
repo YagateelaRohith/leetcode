@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/YagateelaRohith/leetcode/tree/master/0078-subsets) |
 | [0704-binary-search](https://github.com/YagateelaRohith/leetcode/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -26,4 +27,12 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/YagateelaRohith/leetcode/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/YagateelaRohith/leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/YagateelaRohith/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
